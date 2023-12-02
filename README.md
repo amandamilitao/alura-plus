@@ -1,2 +1,4 @@
 # alura-plus
-Página Alura+ desenvolvida no curso de HTML 5 e CSS3 da Alura
+Hello!
+Este prijeto foi desenvolvido durante o curso de HTML e CSS da Alura, e pode ser visualizado em:
+https://amandamilitao.github.io/alura-plus/  😉
